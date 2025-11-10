@@ -4,7 +4,7 @@
 
 💻 Futuro desarrollador web, impulsado por la creatividad y el diseño. 
 
-📚 Actualmente cursando el programa **Professional Developer en Digital House**, donde me encuentro profundizando en: Desarrollo web (**HTML, CSS y JavaScript**, trabajando en el DOM)  
+📚 Actualmente cursando el programa **Professional Developer en Digital House**, donde me encuentro profundizando en desarrollo web con HTML, CSS y JavaScript, e iniciando el aprendizaje de React.js
 
 🎨 También manejo editores y herramientas de diseño.  
 
