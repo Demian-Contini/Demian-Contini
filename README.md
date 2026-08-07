@@ -4,7 +4,7 @@
 
 💻 Futuro desarrollador web, impulsado por la creatividad, el diseño y la búsqueda de un crecimiento constante y con propósito
 
-📚 Actualmente cursando el programa **Professional Developer** en Digital House, donde me encuentro profundizando en desarrollo web con **JavaScript**, **React** y **MySQL** e iniciando el aprendizaje de **JAVA**.
+📚 Tengo bases de desarrollo web (JavaScript, React, MySQL y Java) gracias al programa Professional Developer de Digital House. Actualmente trabajando de forma remota y sigo aprendiendo día a día en este mundo de la programación.
 
 🎨 También manejo editores y herramientas de diseño.  
 
