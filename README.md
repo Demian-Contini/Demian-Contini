@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29yN3ZmamxhcWFyZjYydTk4eGxyaW5mZzdvdW5qeG4ydHY5djkwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmhIggx11YJNC14dH6/giphy.gif" width="200"/>
 
-💻 Futuro desarrollador web, impulsado por la creatividad, el diseño y la búsqueda de un crecimiento constante y con propósito
+💻 Futuro desarrollador web, impulsado por la creatividad, el diseño y la búsqueda de un crecimiento constante, con propósito
 
 📚 Tengo bases de desarrollo web (JavaScript, React, MySQL y Java) gracias al programa Professional Developer de Digital House. Actualmente trabajando de forma remota y sigo aprendiendo día a día en este mundo de la programación.
 
